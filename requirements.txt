@@ -1,0 +1,7 @@
+streamlit
+transformers
+sentencepiece
+torch
+openai
+PyPDF2
+python-multipart
